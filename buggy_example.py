@@ -18,6 +18,6 @@ class PythonCalc:
 
 calc = PythonCalc()
 
-print("Начинаем вычисление..")
+print("Начинаем вычисление...")
 result = calc("calc(calc)")
 print(result)
